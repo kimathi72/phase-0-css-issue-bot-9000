@@ -18,14 +18,16 @@ h2 {
 
 .completed {
   font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
 }
 
-#tasks , .completed {
+#tasks .completed {
   background: #ccc;
   text-decoration: underline;
   width: 600px;
   text-align: center;
   margin:auto;
+
 }
 img{
   width:400px;
